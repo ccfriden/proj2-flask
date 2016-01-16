@@ -34,7 +34,15 @@ tr.even {
     
     font-weight: bolder;
     font-size: 150%; 
-    text-align: center; 
+    text-align: center;
+}
+
+.class-schedule .current_week {
+
+    font-weight: bolder;
+    font-size: 150%;
+    text-align: center;
+    color: blue;
 }
 
 .class-schedule .topic {
