@@ -11,7 +11,7 @@ material described at
 * Clone in your workspace and on ix
 * Enhance the class schedule display
   * The starting date of each week should display
-  * The current week (just the column with the week number, or the
+  * The current weekl (just the column with the week number, or the
     whole row if you prefer) should be highlighted in some way. 
 
 ## In your workspace
@@ -31,7 +31,7 @@ environments, although it will be slower.  Try it and let me know.
 
 If you can run flask applications in your development environment, the
 application would might be run by
-`   python3 syllabus.py`
+`   python3 flask_syllabus.py`
 and then reached with url
 `   http://localhost:5000`
 
@@ -48,7 +48,7 @@ all share it.
 You should already have a top-level 'public_html' directory.  If you 
 don't, then create one: 
 
-`  mkdir public_html`
+`  mkdir public_html`lm
 
 within the public_html directory, it's probably a good idea to create a cis399
 or cis322 subdirectory.  I've optimistically called mine cis322: 
@@ -61,7 +61,7 @@ Public_html is for serving web pages from your personal account.  We're going to
 
 This is where we'll clone the project from Github.  
 
-`   cd htbin;  git clone https://theURLofYourForkedProject`
+`   cd htbin;  git clone https://theURLofYmourForkedProject`
 
 Then `cd` into that directory.  From here it's going to be similar but 
 not quite identical to working in your own workspace. 
